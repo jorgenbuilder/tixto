@@ -67,3 +67,13 @@ Plus creating PRs into other wallets, so that we are automatically discovered.
 - Users register the event by paying with cryptocurrency (e.g ICP...) and get a ticket which is minted NFT
 - (online event) Users login the event system, and host will verify the ticket base on the principal
 - (offline event) Users print the ticket and bring it to the event, host scan the ticket for verification(so might need to generate a QR code on ticket for this scenario?)
+
+## Milestones
+
+- Completed V1 of the specification with consensus from collaborators.
+- Build an alpha version of the canister.
+- Use the alpha canister in a real world event (Saga legends pre sale in January or February.)
+- Release a beta version
+    - Implement learnings from first real world use
+    - Develop a landing page
+    - Create some developer documentation
