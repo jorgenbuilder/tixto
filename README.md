@@ -1,5 +1,8 @@
-# Specification for a General Purpose Event Tickets Open Internet Service
 
+
+Tixto (tickets to): an generalizable nfts-as-tickets service on the Internet Computer.
+
+# Specification for a General Purpose Event Tickets Open Internet Service
 
 ## Impetus
 
