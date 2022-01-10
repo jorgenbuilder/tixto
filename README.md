@@ -1,6 +1,6 @@
+![Logo](https://user-images.githubusercontent.com/60938577/148845014-47a6ef94-b7ee-44bf-b935-9536cc3f211c.png)
 
-
-Tixto (tickets to): an generalizable nfts-as-tickets service on the Internet Computer.
+Tixto (tickets to): a generalizable nfts-as-tickets service on the Internet Computer.
 
 # Specification for a General Purpose Event Tickets Open Internet Service
 
